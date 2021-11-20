@@ -1,0 +1,7 @@
+Ajouter google carte activity
+Activer les services API :  Map SDK for Android et Place API dans google console developer
+Créer une clé identifiant et ajouter les restrictions : Application Android 
+Nom de package 
+SHA 1
+Executer keytool -list -v -keystore "%USERPROFILE%\.android\debug.keystore" -alias androiddebugkey -storepass android -keypass android
+dans C:\Program Files\Java\jre1.8.0_291\bin

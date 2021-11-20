@@ -1,0 +1,30 @@
+
+¤
+java:S1186‹"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(³ÆÌ¶øÿÿÿÿ8‡´àĞ/
+{
+java:S1450'"YRemove the "buttonSave" field and declare it as a local variable in the relevant methods.(Ÿø‚óüÿÿÿÿ8‡´àĞ/
+Ÿ
+java:S1186 "€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ğæÛô8‡´àĞ/
+U
+java:S1874X"8Remove this use of "FusedLocationApi"; it is deprecated.(õÀ¥Ÿ8‡´àĞ/
+Y
+java:S1874"7Remove this use of "GoogleApiClient"; it is deprecated.(ÛâúÌşÿÿÿÿ8‡´àĞ/
+Y
+java:S18749"7Remove this use of "GoogleApiClient"; it is deprecated.(ÂÂ´»ûÿÿÿÿ8‡´àĞ/
+d
+java:S1874"BRemove this use of "OnConnectionFailedListener"; it is deprecated.(Ú¾Ñƒøÿÿÿÿ8‡´àĞ/
+T
+java:S1874,"7Remove this use of "GoogleApiClient"; it is deprecated.(©üß¦8‡´àĞ/
+Ÿ
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Õ˜å¨8‡´àĞ/
+Y
+java:S1874"7Remove this use of "GoogleApiClient"; it is deprecated.(Ú¾Ñƒøÿÿÿÿ8‡´àĞ/
+]
+java:S1874";Remove this use of "ConnectionCallbacks"; it is deprecated.(ÛâúÌşÿÿÿÿ8‡´àĞ/
+Q
+java:S18749"/Remove this use of "Builder"; it is deprecated.(ÂÂ´»ûÿÿÿÿ8‡´àĞ/
+{
+java:S1450)"YRemove the "buttonView" field and declare it as a local variable in the relevant methods.(¿¹¿Ôÿÿÿÿÿ8‡´àĞ/
+X	java:S110"<This class has 8 parents which is greater than 5 authorized.(×ÂäŠ8‡´àĞ/
+¤
+java:S1186¥"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÆÄÉùÿÿÿÿ8‡´àĞ/

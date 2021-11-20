@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LocationMap</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="message_map">
+        1 - Faites un appui long sur un emplacement sur la carte pour le selectionner \n
+        2 - Cliquez sur la première icone pour valider votre emplacement \n
+        3 - Cliquez sur la deuxième icone pour vous positionner sur votre emplacement actuel
+    </string>
+</resources>
